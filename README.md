@@ -5,5 +5,3 @@ Reverse Image Search for Satellite Imagery on UC Merced Land Use Dataset
 3. We benchmark the algorithms based on the time it takes to index images and locate the most similar image based on its features using the UC Merced Land Use Dataset. We also experiment with t-SNE and PCA.
 4. We experiment with different visualization techniques on the results, t-SNE and PCA on the results and calculate the accuracies of the features obtained from the pretrained and finetuned models.
 5. We experiment with PCA and figure out what is the optimum length of the features to use in our experiments and then we find the least accurate (worst) performing categories, visualize them with t-SNE, fine-tune and then see how their t-SNE graph changes.
-
-Feel free to play with the colab notebook, the comments are embedded in the notebook to explain the code.
